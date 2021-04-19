@@ -4,7 +4,7 @@
 
 TrafficSignal::TrafficSignal()
 {
-    Greensignaltime=8;
+    Greensignaltime=36;
     Redsignaltime=2;
     Ambersignaltime=2;
     flag=true;
