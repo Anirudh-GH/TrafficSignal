@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1618856409 source:/home/anirudh/Documents/Projects/Traffic Signal/main.cpp
+	"TrafficSignal.h"
+
+1618858715 /home/anirudh/Documents/Projects/Traffic Signal/TrafficSignal.h
+	<stdlib.h>
+	<iostream>
+	<map>
+	<chrono>
+	<thread>
+
